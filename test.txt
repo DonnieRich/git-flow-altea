@@ -2,4 +2,4 @@ hello world
 
 hello from github
 
-greetings from ravenna
+greetings from Ravenna
